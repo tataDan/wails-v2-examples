@@ -32,6 +32,7 @@ These extra steps might not be needed in future releases of Wails. They might no
 
 Please note that the nation-db example has special requirements in order for the example to run as intended.  Please see the README.md file in the examples/nation-db for further information.  The mimic-nation-db example does not have these requirements.
 
+## Another Example
 
 For a more advanced example, you might want to check out RiftShare (https://riftshare.app/ and https://github.com/achhabra2/riftshare/tree/v0.1.9).
 
