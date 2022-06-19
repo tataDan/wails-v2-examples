@@ -1,0 +1,88 @@
+
+wails init -n uppercase -t svelte -ide vscode
+
+cd uppercase
+
+In app.go 
+
+	replace the following lines:
+		// Greet returns a greeting for the given name
+		func (a *App) Greet(name string) string {
+			return fmt.Sprintf("Hello %s, It's show time!", name)
+		}
+
+	with the following lines:
+		// Uppercase returns a uppercase equivalent for the given value
+		func (a *App) Uppercase(value string) string {
+			return fmt.Sprintf("The new value is %s", strings.ToUpper(value))
+		}
+
+In frontend/src/App.svelte 
+
+	replace the following lines:
+		<script>
+			import logo from './assets/images/logo-universal.png'
+			import {Greet} from '../wailsjs/go/main/App.js'
+
+			let resultText = "Please enter your name below 👇"
+			let name
+
+			function greet() {
+				Greet(name).then(result => resultText = result)
+			}
+		</script>
+		
+	with the following lines:
+		<script>
+		import { Uppercase } from '../wailsjs/go/main/App';
+
+		let resultText = "Please enter a value below"
+		let value
+
+		function uppercase() {
+		  Uppercase(value).then(result => resultText = result)
+		}
+		</script>	
+
+	delete the following lines:		
+	  <img alt="Wails logo" id="logo" src="{logo}"
+	  #logo {
+		  display: block;
+		  width: 50%;
+		  height: 50%;
+		  margin: auto;
+		  padding: 10% 0 0;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: 100% 100%;
+		  background-origin: content-box;
+  	}
+	  
+	  replace the following lines:
+			.input-box .btn {
+    	/* width: 60px; */
+    
+   with the following lines:
+   	.input-box .btn {
+    width: 80px;
+    	
+	replace the following lines:
+		<main>
+			<div class="result" id="result">{resultText}</div>
+			<div class="input-box" id="input">
+				<input autocomplete="off" bind:value={name} class="input" id="name" type="text"/>
+				<button class="btn" on:click={greet}>Greet</button>
+			</div>
+		</main>
+
+	with the following lines:
+		<main>
+			<div class="result" id="result">{resultText}</div>
+			<div class="input-box" id="input">
+				<input autocomplete="off" bind:value={value} class="input" id="value" type="text"/>
+				<button class="btn" on:click={uppercase}>Uppercase</button>
+			</div>
+		</main>
+
+Delete the frontend/src/assets/images/logo-universal.png file
+
