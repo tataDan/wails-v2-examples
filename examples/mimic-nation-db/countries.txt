@@ -1,0 +1,239 @@
+Aruba,193.00,NULL
+Afghanistan,652090.00,1919-08-19
+Angola,1246700.00,1975-11-11
+Anguilla,96.00,1967-05-30
+Albania,28748.00,1912-11-28
+Andorra,468.00,NULL
+Netherlands Antilles,800.00,NULL
+United Arab Emirates,83600.00,1971-12-02
+Argentina,2780400.00,1816-07-09
+Armenia,29800.00,1991-09-21
+American Samoa,199.00,NULL
+Antarctica,13120000.00,NULL
+French Southern territories,7780.00,NULL
+Antigua and Barbuda,442.00,1981-11-01
+Australia,7741220.00,NULL
+Austria,83859.00,1955-10-26
+Azerbaijan,86600.00,1991-10-18
+Burundi,27834.00,1962-07-01
+Belgium,30518.00,1831-07-21
+Benin,112622.00,1960-08-01
+Burkina Faso,274000.00,1960-08-05
+Bangladesh,143998.00,1971-03-26
+Bulgaria,110994.00,1878-03-03
+Bahrain,694.00,1971-12-16
+Bahamas,13878.00,NULL
+Bosnia and Herzegovina,51197.00,1992-03-01
+Belarus,207600.00,1944-07-03
+Belize,22696.00,1981-09-21
+Bermuda,53.00,NULL
+Bolivia,1098581.00,1825-08-06
+Brazil,8547403.00,1822-09-07
+Barbados,430.00,1966-11-30
+Brunei,5765.00,1984-01-01
+Bhutan,47000.00,NULL
+Bouvet Island,59.00,NULL
+Botswana,581730.00,1966-09-30
+Central African Republic,622984.00,1960-08-13
+Canada,9970610.00,1867-07-01
+Cocos (Keeling) Islands,14.00,NULL
+Switzerland,41284.00,1291-08-01
+Chile,756626.00,1810-09-18
+China,9572900.00,NULL
+Côte d’Ivoire,322463.00,NULL
+Cameroon,475442.00,1960-01-01
+The Democratic Republic of the Congo,2344858.00,NULL
+Congo,342000.00,NULL
+Cook Islands,236.00,NULL
+Colombia,1138914.00,NULL
+Comoros,1862.00,1975-07-06
+Cape Verde,4033.00,1975-07-05
+Costa Rica,51100.00,1821-09-15
+Cuba,110861.00,1868-10-10
+Christmas Island,135.00,NULL
+Cayman Islands,264.00,NULL
+Cyprus,9251.00,1960-10-01
+Czech Republic,78866.00,1918-10-28
+Germany,357022.00,NULL
+Djibouti,23200.00,1977-06-27
+Dominica,751.00,1978-11-03
+Denmark,43094.00,NULL
+Dominican Republic,48511.00,NULL
+Algeria,2381741.00,1962-07-05
+Ecuador,283561.00,1809-08-10
+Egypt,1001449.00,NULL
+Eritrea,117600.00,1993-05-24
+Western Sahara,266000.00,NULL
+Spain,505992.00,NULL
+Estonia,45227.00,1918-02-24
+Ethiopia,1104300.00,NULL
+Finland,338145.00,1917-12-06
+Fiji Islands,18274.00,NULL
+Falkland Islands,12173.00,NULL
+France,551500.00,1789-07-14
+Faroe Islands,1399.00,NULL
+Federated States of Micronesia,702.00,NULL
+Gabon,267668.00,1960-08-17
+United Kingdom,242900.00,NULL
+Georgia,69700.00,1918-05-26
+Ghana,238533.00,1957-03-06
+Gibraltar,6.00,NULL
+Guinea,245857.00,1958-10-02
+Guadeloupe,1705.00,NULL
+Gambia,11295.00,NULL
+Guinea-Bissau,36125.00,1973-09-24
+Equatorial Guinea,28051.00,1968-10-12
+Greece,131626.00,1821-03-25
+Grenada,344.00,1974-02-07
+Greenland,2166090.00,NULL
+Guatemala,108889.00,1821-09-15
+French Guiana,90000.00,NULL
+Guam,549.00,NULL
+Guyana,214969.00,1966-05-26
+Hong Kong,1075.00,1997-07-01
+Heard Island and McDonald Islands,359.00,NULL
+Honduras,112088.00,1821-09-15
+Croatia,56538.00,1991-10-08
+Haiti,27750.00,1804-01-01
+Hungary,93030.00,1989-10-23
+Indonesia,1904569.00,1945-08-17
+India,3287263.00,1947-08-15
+British Indian Ocean Territory,78.00,NULL
+Ireland,70273.00,1916-04-24
+Iran,1648195.00,1979-04-01
+Iraq,438317.00,1932-10-03
+Iceland,103000.00,1944-06-17
+Israel,21056.00,1948-01-00
+Italy,301316.00,NULL
+Jamaica,10990.00,1962-08-06
+Jordan,88946.00,1946-05-25
+Japan,377829.00,NULL
+Kazakstan,2724900.00,NULL
+Kenya,580367.00,1963-12-12
+Kyrgyzstan,199900.00,1991-08-31
+Cambodia,181035.00,1953-11-09
+Kiribati,726.00,1979-07-12
+Saint Kitts and Nevis,261.00,1983-09-19
+South Korea,99434.00,NULL
+Kuwait,17818.00,1961-02-25
+Laos,236800.00,1953-10-22
+Lebanon,10400.00,1943-11-22
+Liberia,111369.00,1847-07-26
+Libyan Arab Jamahiriya,1759540.00,NULL
+Saint Lucia,622.00,1979-02-22
+Liechtenstein,160.00,NULL
+Sri Lanka,65610.00,1948-02-04
+Lesotho,30355.00,1966-10-04
+Lithuania,65301.00,1918-02-16
+Luxembourg,2586.00,NULL
+Latvia,64589.00,1918-11-18
+Macao,18.00,1999-12-20
+Morocco,446550.00,1956-11-18
+Monaco,1.50,NULL
+Moldova,33851.00,1991-08-27
+Madagascar,587041.00,1960-06-26
+Maldives,298.00,1965-07-26
+Mexico,1958201.00,1810-09-16
+Marshall Islands,181.00,NULL
+Macedonia,25713.00,NULL
+Mali,1240192.00,1960-09-22
+Malta,316.00,1964-09-21
+Myanmar,676578.00,1948-01-04
+Mongolia,1566500.00,1911-12-29
+Northern Mariana Islands,464.00,NULL
+Mozambique,801590.00,1975-06-25
+Mauritania,1025520.00,1960-11-28
+Montserrat,102.00,NULL
+Martinique,1102.00,NULL
+Mauritius,2040.00,1968-03-12
+Malawi,118484.00,1964-07-06
+Malaysia,329758.00,1957-08-31
+Mayotte,373.00,NULL
+Namibia,824292.00,1990-03-21
+New Caledonia,18575.00,NULL
+Niger,1267000.00,1960-08-03
+Norfolk Island,36.00,NULL
+Nigeria,923768.00,1960-10-01
+Nicaragua,130000.00,1821-09-15
+Niue,260.00,NULL
+Netherlands,41526.00,NULL
+Norway,323877.00,1814-05-17
+Nepal,147181.00,NULL
+Nauru,21.00,1968-01-31
+New Zealand,270534.00,NULL
+Oman,309500.00,1650-11-18
+Pakistan,796095.00,1947-08-14
+Panama,75517.00,1821-11-28
+Pitcairn,49.00,NULL
+Peru,1285216.00,1821-07-28
+Philippines,300000.00,1898-06-12
+Palau,459.00,NULL
+Papua New Guinea,462840.00,1975-09-16
+Poland,323250.00,1918-11-11
+Puerto Rico,8875.00,NULL
+North Korea,120538.00,NULL
+Portugal,91982.00,1640-12-01
+Paraguay,406752.00,1811-05-15
+Palestine,6257.00,1988-11-15
+French Polynesia,4000.00,NULL
+Qatar,11000.00,1971-12-18
+Réunion,2510.00,NULL
+Romania,238391.00,1877-05-09
+Russian Federation,17075400.00,NULL
+Rwanda,26338.00,1962-07-01
+Saudi Arabia,2149690.00,NULL
+Sudan,2505813.00,1956-01-01
+Senegal,196722.00,1960-04-04
+Singapore,618.00,1965-08-09
+South Georgia and the South Sandwich Islands,3903.00,NULL
+Saint Helena,314.00,NULL
+Svalbard and Jan Mayen,62422.00,NULL
+Solomon Islands,28896.00,1978-07-07
+Sierra Leone,71740.00,1961-04-27
+El Salvador,21041.00,1821-09-15
+San Marino,61.00,NULL
+Somalia,637657.00,1960-07-01
+Saint Pierre and Miquelon,242.00,NULL
+Sao Tome and Principe,964.00,NULL
+Suriname,163265.00,1975-11-25
+Slovakia,49012.00,1992-07-17
+Slovenia,20256.00,1991-01-00
+Sweden,449964.00,1523-06-06
+Swaziland,17364.00,NULL
+Seychelles,455.00,1976-06-29
+Syria,185180.00,1946-04-17
+Turks and Caicos Islands,430.00,NULL
+Chad,1284000.00,1960-08-11
+Togo,56785.00,1960-04-27
+Thailand,513115.00,NULL
+Tajikistan,143100.00,1991-09-09
+Tokelau,12.00,NULL
+Turkmenistan,488100.00,1991-09-27
+East Timor,14874.00,2002-05-20
+Tonga,650.00,1970-06-04
+Trinidad and Tobago,5130.00,1962-08-31
+Tunisia,163610.00,1956-03-20
+Turkey,774815.00,NULL
+Tuvalu,26.00,1978-10-01
+Taiwan,36188.00,1911-10-10
+Tanzania,883749.00,1961-12-09
+Uganda,241038.00,1962-10-09
+Ukraine,603700.00,1991-08-24
+United States Minor Outlying Islands,16.00,NULL
+Uruguay,175016.00,1825-08-25
+United States,9363520.00,1776-07-04
+Uzbekistan,447400.00,1991-09-01
+Holy See (Vatican City State),0.40,NULL
+Saint Vincent and the Grenadines,388.00,1979-10-27
+Venezuela,912050.00,1811-07-05
+Virgin Islands - British,151.00,NULL
+Virgin Islands - U.S.,347.00,NULL
+Vietnam,331689.00,1945-09-02
+Vanuatu,12189.00,1980-07-30
+Wallis and Futuna,200.00,NULL
+Samoa,2831.00,1962-01-01
+Yemen,527968.00,1967-11-30
+Yugoslavia,102173.00,NULL
+South Africa,1221037.00,1931-12-11
+Zambia,752618.00,1964-10-24
+Zimbabwe,390757.00,1980-04-18
