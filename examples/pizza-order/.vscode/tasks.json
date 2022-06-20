@@ -15,7 +15,7 @@
         "-gcflags",
         "all=-N -l",
         "-o",
-        "build/bin/uppercase-svelte"
+        "build/bin/pizza-order"
       ]
     },
     {
@@ -32,7 +32,7 @@
         "-gcflags",
         "all=-N -l",
         "-o",
-        "build/bin/uppercase-svelte"
+        "build/bin/pizza-order"
       ]
     }
   ]

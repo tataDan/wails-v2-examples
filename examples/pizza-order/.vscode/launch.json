@@ -2,21 +2,21 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Wails: Production uppercase-svelte",
+      "name": "Wails: Production pizza-order",
       "type": "go",
       "request": "launch",
       "mode": "exec",
-      "program": "${workspaceFolder}/build/bin/uppercase-svelte",
+      "program": "${workspaceFolder}/build/bin/pizza-order",
       "preLaunchTask": "build",
       "cwd": "${workspaceFolder}",
       "env": {}
     },
     {
-      "name": "Wails: Debug uppercase-svelte",
+      "name": "Wails: Debug pizza-order",
       "type": "go",
       "request": "launch",
       "mode": "exec",
-      "program": "${workspaceFolder}/build/bin/uppercase-svelte",
+      "program": "${workspaceFolder}/build/bin/pizza-order",
       "preLaunchTask": "build debug",
       "cwd": "${workspaceFolder}",
       "env": {}
