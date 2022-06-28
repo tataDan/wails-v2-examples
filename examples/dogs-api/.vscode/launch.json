@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Wails: Production dogs-api",
+      "type": "go",
+      "request": "launch",
+      "mode": "exec",
+      "program": "${workspaceFolder}/build/bin/dogs-api",
+      "preLaunchTask": "build",
+      "cwd": "${workspaceFolder}",
+      "env": {}
+    },
+    {
+      "name": "Wails: Debug dogs-api",
+      "type": "go",
+      "request": "launch",
+      "mode": "exec",
+      "program": "${workspaceFolder}/build/bin/dogs-api",
+      "preLaunchTask": "build debug",
+      "cwd": "${workspaceFolder}",
+      "env": {}
+    }
+  ]
+}
