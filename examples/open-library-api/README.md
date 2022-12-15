@@ -18,10 +18,10 @@ Understanding my theory of how the openlibrary API operates is best done by exam
 
 Suppose you enter "Albert" in the person box. Also suppose that the API has a document that contained the following for the person array:
 
-`Albert
+Albert
 Maria
 Joseph Albert
-Einstein`
+Einstein
 
 The API would iterate through the person array of each document and return any document that contains "Albert" in least one row in the array.  In this case it would return the document because the first and third rows contain "Albert".
 
@@ -29,9 +29,9 @@ If you had entered "Albert Einstein" instead, the API would also return the docu
 
 However, if the document contained the person array:
 
-`Albert
+Albert
 Maria
-Joseph Albert`
+Joseph Albert
 
 then the document would not be returned becase none of the rows contain "Einstein".
 
@@ -39,28 +39,28 @@ Suppose you wanted to see only documents that contained the exact string of "Alb
 
 If the person array was
 
-`Albert
+Albert
 Maria
 Joseph Albert
-Stephanie Einstein`
+Stephanie Einstein
 
 then the document would not be returned.
 
 However, if the person array was
 
-`Albert
+Albert
 Maria
 Joseph Albert
-Albert Einstein`
+Albert Einstein
 
 the document would be returned.
 
 However if the person array contained
 
-`Albert
+Albert
 Maria
 Joseph Albert
-Albert Einstein (1879-1955)`
+Albert Einstein (1879-1955)
 
 then you would need to use the "Person Substring Search" option to see the document.
 
