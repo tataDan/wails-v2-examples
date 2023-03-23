@@ -187,7 +187,7 @@ func (a *App) GetData(city string, stateCode string, programCode string) []dataT
 	url := "https://api.data.gov/ed/collegescorecard/v1/schools?fields=latest.school.name,latest.school.city,latest.school.state,latest.school.school_url," +
 		"latest.school.price_calculator_url,latest.student.size,latest.student.grad_students,latest.cost.tuition.in_state," +
 		"latest.cost.tuition.out_of_state"
-	apiKey := "&api_key=XXXXXXXXXXXXXXXXXXXXXX"
+	apiKey := "&api_key=XXXXXXXXXX"
 	url = fmt.Sprintf("%s%s%s", url, queryParams, apiKey)
 
 	for {
@@ -196,6 +196,21 @@ func (a *App) GetData(city string, stateCode string, programCode string) []dataT
 		if err != nil {
 			fmt.Print(err.Error())
 			os.Exit(1)
+		}
+
+		if response.StatusCode == 403 {
+			errMsg := fmt.Sprintf("%s.  %s", "StatusForbidden (403), (Possibly the api key is invalid). Please report this error to the developer", "Application will terminate!")
+			_, err := runtime.MessageDialog(a.ctx, runtime.MessageDialogOptions{
+				Title:         "ERROR",
+				Message:       errMsg,
+				Buttons:       []string{"OK"},
+				DefaultButton: "OK",
+			})
+			if err != nil {
+				log.Println(err)
+				return dataOut
+			}
+			log.Fatal(errMsg)
 		}
 
 		responseData, err := io.ReadAll(response.Body)
